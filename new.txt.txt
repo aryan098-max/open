@@ -1,1 +1,2 @@
 This is the text
+Added new thing
